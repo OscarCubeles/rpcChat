@@ -1,0 +1,7 @@
+oscar: hola
+oscar: que tal
+oscar: jo estic molt be
+andres: hey oscar que tal
+oscar: jo estic molt be i tu?
+oscar: jo deeeestic massa be
+andres: bua pues jo macabo de trencar la cama
